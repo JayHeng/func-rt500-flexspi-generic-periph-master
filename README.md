@@ -1,2 +1,2 @@
-# imxrt-flexspi-generic-periph-master
-在i.MX RT系列上实现通用 1bit SPI Master 功能
+# func-rt500-flexspi-generic-periph-master
+在 i.MX RT 系列上基于 FlexSPI 外设实现通用 1bit SPI Master 数据收发功能 
